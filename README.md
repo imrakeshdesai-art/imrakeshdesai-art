@@ -2,9 +2,9 @@
 - 👀 I’m interested in gaming 
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on gaming proojects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me (https://www.linkedin.com/in/rakesh-desai-986012247/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:
 
 <!---
 imrakeshdesai-art/imrakeshdesai-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
