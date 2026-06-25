@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakesh Desai</h1>
-<h3 align="center">Aspiring Data Analyst | Python Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center"> | Java full Stack developer Trainee | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer+Trainee;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Building predictive models and experimenting with AI applications.
 
 ## 🎯 Current Goals
 
-- Master Data Analytics & Business Intelligence
+- Master Java Full Stack Development & Machine learning with Business Intelligence
 - Build End-to-End Machine Learning Projects
 - Contribute to Open Source Projects
 - Strengthen SQL and Data Engineering Skills
@@ -76,8 +76,8 @@ Building predictive models and experimenting with AI applications.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/imrakeshdesai-art
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+- LinkedIn: https://www.linkedin.com/in/rakesh-desai-986012247/
+- Email: rakeshdesai2909@gmail.com
 
 ---
 
