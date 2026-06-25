@@ -1,6 +1,7 @@
 -  Hi, I’m @imrakeshdesai-art
--  I’m interested in software development 
--  I’m currently learning machine learning 
+-  I’m interested in software development
+-  I have been a recent Trainee at IIIT Dharwad
+-  I'm currently learning Java Full Stack development at KodNest, bengaluru
 -  I’m looking to collaborate on gaming proojects
 -  How to reach me (https://www.linkedin.com/in/rakesh-desai-986012247/)
 -  Pronouns: He/Him
