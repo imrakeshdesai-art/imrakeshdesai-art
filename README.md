@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer Trainee | AI & Machine Learning Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+Trainee;AI+%26+Machine+Learning+Aspirant;Python+%26+SQL+Learner;Data+Analytics+Enthusiast" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Full%20Stack%20%7C%20AI%2FML-36BCF7?style=for-the-badge" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 | Project | Tech Stack | Description | Repo Link |
 |---|---|---|---|
@@ -69,11 +69,11 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 Profile Analytics
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=imrakeshdesai-art&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.summary.deno.dev/api?username=imrakeshdesai-art&theme=tokyonight" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=imrakeshdesai-art&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/imrakeshdesai-art?style=for-the-badge&color=238636&label=FOLLOWERS" />
 </p>
 
 ---
