@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer Trainee | AI & Machine Learning Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+Trainee;AI+%26+Machine+Learning+Aspirant;Python+%26+SQL+Learner;Data+Analytics+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+Trainee;AI+%26+Machine+Learning+Aspirant;Python+%26+SQL+Learner;Data+Analytics+Enthusiast" />
 </p>
 
 ---
@@ -69,11 +69,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imrakeshdesai-art&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrakeshdesai-art&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=imrakeshdesai-art&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.summary.deno.dev/api?username=imrakeshdesai-art&theme=tokyonight" />
 </p>
 
 ---
