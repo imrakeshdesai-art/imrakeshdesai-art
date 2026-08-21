@@ -105,36 +105,48 @@
 
 ---
 
-## 🏆 GitHub Trophies & Accomplishments
+## 📊 Developer Metrics & GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imrakeshdesai-art&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" />
-</div>
-
----
-
-## 📈 GitHub Analytics & Activity Suite
-
-<div align="center">
-  <!-- Profile Views & Followers Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=imrakeshdesai-art&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" />
     <img src="https://img.shields.io/github/followers/imrakeshdesai-art?style=for-the-badge&color=238636&label=FOLLOWERS" />
     <img src="https://img.shields.io/badge/Status-Immediate_Joiner-22C55E?style=for-the-badge" />
   </p>
+</div>
 
-  <br/>
+| Metric | Status / Value | Highlights |
+|---|---|---|
+| 🎓 **Degree & Specialization** | B.E. ECE (2021 – 2025) | Basaveshwar Engineering College, Bagalkot |
+| 🏫 **Full Stack Training** | Java Full Stack Trainee | Kodnest Development Program |
+| 🔬 **AI / ML Internship** | 11 Months Completed | IIIT Dharwad (LTIMindtree Sponsored) |
+| 💻 **Primary Stack** | Python • Java • SQL • React.js | Full-Stack & Machine Learning Pipelines |
+| 🤖 **Deep Learning Stack** | PyTorch • Scikit-Learn | CNNs, LSTMs, Transformers, GANs, PCA |
+| 📜 **Industry Simulations** | Deloitte & Tata Certified | Data Analytics & GenAI Simulations (Forage) |
+| 📍 **Current Location** | Vijayapura / Bengaluru, KA | Open to Relocation & Immediate Joining |
 
-  <!-- 1. GitHub Overall Stats & Grade Card -->
-  <img height="180" src="https://github-readme-stats-eight-nu.vercel.app/api?username=imrakeshdesai-art&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<br/>
+
+<div align="center">
+  <h3>⚡ Technical Proficiency Index</h3>
   
-  <!-- 2. Top Languages Breakdown Card -->
-  <img height="180" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=imrakeshdesai-art&layout=compact&theme=tokyonight&hide_border=true" />
+  <p>
+    <b>Python & Machine Learning</b><br/>
+    <img src="https://img.shields.io/badge/Skill-90%25-007ACC?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Stack-Python_%7C_PyTorch_%7C_Scikit--Learn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
 
-  <br/><br/>
+  <p>
+    <b>Java & Full Stack Development</b><br/>
+    <img src="https://img.shields.io/badge/Skill-85%25-ED8B00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Stack-Java_%7C_SQL_%7C_React.js_%7C_Node.js-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </p>
 
-  <!-- 3. Contribution Streak Counter -->
-  <img height="165" src="https://streak-stats.demolab.com?user=imrakeshdesai-art&theme=tokyonight&hide_border=true" />
+  <p>
+    <b>Data Science & Analytics</b><br/>
+    <img src="https://img.shields.io/badge/Skill-85%25-F2C811?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Stack-Pandas_%7C_NumPy_%7C_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </p>
 </div>
 
 ---
