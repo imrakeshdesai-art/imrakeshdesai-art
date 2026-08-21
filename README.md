@@ -105,17 +105,19 @@
 
 ---
 
-## 📈 GitHub Analytics & Stats
+## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="165" src="https://komarev.com/ghpvc/?username=imrakeshdesai-art&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img height="165" src="https://img.shields.io/github/followers/imrakeshdesai-art?style=for-the-badge&color=238636&label=FOLLOWERS" />
-</div>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=imrakeshdesai-art&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/imrakeshdesai-art?style=for-the-badge&color=238636&label=FOLLOWERS" />
+  </p>
 
-<br/>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.summary.deno.dev/api?username=imrakeshdesai-art&theme=tokyonight&show_icons=true" />
+  <p>
+    <img src="https://img.shields.io/badge/Public_Repositories-4-007ACC?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Primary_Language-Python_|_Java-ED8B00?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/Status-Immediate_Joiner-22C55E?style=for-the-badge" />
+  </p>
 </div>
 
 ---
