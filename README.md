@@ -105,19 +105,36 @@
 
 ---
 
-## 📈 GitHub Analytics & Activity
+## 🏆 GitHub Trophies & Accomplishments
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imrakeshdesai-art&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+
+---
+
+## 📈 GitHub Analytics & Activity Suite
+
+<div align="center">
+  <!-- Profile Views & Followers Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=imrakeshdesai-art&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" />
     <img src="https://img.shields.io/github/followers/imrakeshdesai-art?style=for-the-badge&color=238636&label=FOLLOWERS" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Public_Repositories-4-007ACC?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/Primary_Language-Python_|_Java-ED8B00?style=for-the-badge&logo=python" />
     <img src="https://img.shields.io/badge/Status-Immediate_Joiner-22C55E?style=for-the-badge" />
   </p>
+
+  <br/>
+
+  <!-- 1. GitHub Overall Stats & Grade Card -->
+  <img height="180" src="https://github-readme-stats-eight-nu.vercel.app/api?username=imrakeshdesai-art&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <!-- 2. Top Languages Breakdown Card -->
+  <img height="180" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=imrakeshdesai-art&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+  <!-- 3. Contribution Streak Counter -->
+  <img height="165" src="https://streak-stats.demolab.com?user=imrakeshdesai-art&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
